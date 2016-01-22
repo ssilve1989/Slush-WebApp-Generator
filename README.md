@@ -1,4 +1,4 @@
-# Slush Webapp-generator [![Build Status](https://secure.travis-ci.org/ssilve1989/slush-webapp-generator.png?branch=master)](https://travis-ci.org/ssilve1989/slush-webapp-generator) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-webapp-generator.png)](http://badges.enytc.com/for/npm/slush-webapp-generator)
+# Slush Webapp-generator ![Build Status](https://img.shields.io/travis/rust-lang/rust.svg) [![npm](https://img.shields.io/badge/npm-v1.0.0-brightgreen.svg)]()
 
 > Simple webapp src/dist build project structure
 
