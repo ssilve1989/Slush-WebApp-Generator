@@ -22,7 +22,7 @@ $ mkdir my-slush-webapp-generator
 Run the generator from within the new folder:
 
 ```bash
-$ cd my-slush-webapp-generator && slush WebApp-Generator
+$ cd my-slush-webapp-generator && slush webapp-generator
 ```
 
 ## Getting To Know Slush
