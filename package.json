@@ -1,7 +1,7 @@
   {
   "name": "slush-webapp-generator",
   "description": "Simple webapp src/dist build project structure",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/ssilve1989/slush-webapp-generator",
   "author": {
     "name": "Steve Silvestri",
