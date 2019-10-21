@@ -32,7 +32,7 @@
     "iniparser": "^1.0.5",
     "inquirer": "^0.8.0",
     "slush": ">=1.0.0",
-    "underscore.string": "^2.3.3"
+    "underscore.string": "^3.3.5"
   },
   "keywords": [
     "slushgenerator"
